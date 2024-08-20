@@ -1,0 +1,6 @@
+name = "fastapi"
+compatibility_date = "2024-08-19"
+
+[vars]
+UPSTASH_REDIS_REST_TOKEN = "AZLJAAIjcDFjNmJiYWVkYTg0ZTc0YmI0ODU2YmIwN2RkYjA3ZTNlMXAxMA"
+UPSTASH_REDIS_REST_URL = "https://cunning-sawfly-37577.upstash.io"
